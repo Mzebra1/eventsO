@@ -1,0 +1,36 @@
+/* SignIn.css */
+.signin-container {
+  margin: 4rem 6rem;
+     /* Adjust as needed to center the form vertically */
+  }
+  
+  .signup-heading {
+    color: blue; /* Change heading color to blue */
+    font-size: 24px; /* Increase font size */
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type='email'],
+  input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px; /* Increase input font size */
+  }
+  
+  .signin-button {
+    background-color: blue; /* Change button background color to blue */
+    color: black; /* Change button text color to black */
+    padding: 10px 20px;
+    font-size: 16px; /* Increase button font size */
+    border: none;
+    cursor: pointer;
+  }
+  
+  .signin-button:hover {
+    background-color: navy; /* Darken button background color on hover */
+    color: white; /* Change button text color to white on hover */
+  }
+  
